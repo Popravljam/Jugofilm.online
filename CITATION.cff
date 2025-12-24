@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Lazar
+    given-names: ""
+    affiliation: "Independent Developer"
+title: "Jugofilm.online: Ex-Yugoslav Film Database"
+version: 1.0.0
+date-released: 2024-12-24
+url: "https://github.com/Popravljam/Jugofilm.online"
+repository-code: "https://github.com/Popravljam/Jugofilm.online"
+license: MIT
+keywords:
+  - film database
+  - ex-Yugoslavia
+  - movies
+  - cinema
+  - Balkans
+  - TMDb
+  - Wikidata
+  - Next.js
+  - TypeScript
+  - SQLite
+abstract: >
+  A comprehensive film database for the ex-Yugoslav region,
+  featuring movies, actors, directors, and collaborative
+  relationships from Serbia, Croatia, Bosnia and Herzegovina,
+  Montenegro, North Macedonia, Slovenia, and Kosovo. Built
+  with Next.js 16, TypeScript, and SQLite, integrating data
+  from TMDb API and Wikidata.

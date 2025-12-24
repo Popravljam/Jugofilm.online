@@ -1,0 +1,45 @@
+{
+  "title": "Jugofilm.online: Ex-Yugoslav Film Database",
+  "description": "A comprehensive film database for the ex-Yugoslav region, featuring movies, actors, directors, and collaborative relationships from Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Slovenia, and Kosovo. Built with Next.js 16, TypeScript, and SQLite, integrating data from TMDb API and Wikidata.",
+  "creators": [
+    {
+      "name": "Lazar",
+      "affiliation": "Independent Developer"
+    }
+  ],
+  "access_right": "open",
+  "license": "MIT",
+  "keywords": [
+    "film database",
+    "ex-Yugoslavia",
+    "movies",
+    "cinema",
+    "Balkans",
+    "TMDb",
+    "Wikidata",
+    "Next.js",
+    "TypeScript",
+    "SQLite",
+    "web application",
+    "actor collaborations",
+    "film statistics",
+    "Serbian cinema",
+    "Croatian cinema",
+    "Bosnian cinema"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Popravljam/Jugofilm.online",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "upload_type": "software",
+  "language": "eng",
+  "notes": "This software application provides a searchable database of films from the ex-Yugoslav region. It aggregates data from TMDb API and Wikidata SPARQL queries, storing information in a local SQLite database. Features include actor collaboration networks, film statistics, GDPR-compliant privacy policy, and Google Analytics/AdSense integration.",
+  "references": [
+    "The Movie Database (TMDb) API - https://www.themoviedb.org/documentation/api",
+    "Wikidata Query Service - https://query.wikidata.org/"
+  ],
+  "version": "1.0.0"
+}
