@@ -1,5 +1,7 @@
 # Jugofilm.online
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18046237.svg)](https://doi.org/10.5281/zenodo.18046237)
+
 A comprehensive film database for the ex-Yugoslav region, featuring movies, actors, directors, and collaborative relationships from Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Slovenia, and Kosovo.
 
 ## Features
