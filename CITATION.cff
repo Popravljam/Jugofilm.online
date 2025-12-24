@@ -1,12 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Lazar
-    given-names: ""
+  - family-names: Čovs
+    given-names: Lazar
     affiliation: "Independent Developer"
 title: "Jugofilm.online: Ex-Yugoslav Film Database"
 version: 1.0.0
 date-released: 2024-12-24
+doi: 10.5281/zenodo.18046237
 url: "https://github.com/Popravljam/Jugofilm.online"
 repository-code: "https://github.com/Popravljam/Jugofilm.online"
 license: MIT
