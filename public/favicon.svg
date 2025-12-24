@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000">
+  <!-- Outer circle (film reel) -->
+  <circle cx="500" cy="500" r="450" fill="none" stroke="#000" stroke-width="80"/>
+  
+  <!-- Five circles (film reel holes) -->
+  <circle cx="500" cy="150" r="80" fill="#000"/>
+  <circle cx="223" cy="323" r="80" fill="#000"/>
+  <circle cx="223" cy="677" r="80" fill="#000"/>
+  <circle cx="777" cy="323" r="80" fill="#000"/>
+  <circle cx="777" cy="677" r="80" fill="#000"/>
+  
+  <!-- Star in center -->
+  <path d="M 500,350 L 550,475 L 685,475 L 577,555 L 625,680 L 500,600 L 375,680 L 423,555 L 315,475 L 450,475 Z" fill="#000"/>
+</svg>
