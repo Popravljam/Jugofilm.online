@@ -1,0 +1,26 @@
+version: '3.8'
+
+services:
+  jugofilm:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: jugofilm-online
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+    volumes:
+      # Mount the data directory for SQLite database
+      - ./data:/app/data
+      # Mount logs directory
+      - ./logs:/app/logs
+    env_file:
+      - .env.local
+    networks:
+      - jugofilm-network
+
+networks:
+  jugofilm-network:
+    driver: bridge
